@@ -1,0 +1,75 @@
+hr {
+  border-top: 5px solid rgb(116, 114, 114);
+}
+.nav-wrapper a{
+  color: black;
+}
+
+body{
+  margin-top: 40px;
+}
+
+#carouselExampleCaptions{
+  padding: 20px 0;
+}
+
+.slider{
+  z-index: -1;
+}
+
+#services{
+  background-color: rgba(243, 235, 235, 0.63);
+}
+
+section{
+  padding-top: 3rem;
+}
+
+footer{
+  background-color: rgb(151, 151, 151);
+}
+
+.Clients{
+  background-image: url(abcd.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  text-shadow: black;
+}
+
+.card{
+  border-radius: 10px;
+}
+
+.icon i{
+  font-size: 30px;
+  margin: 10px;
+}
+
+.Clients h2{
+  margin-top: 20px;
+}
+
+img{
+  width: 70%;
+}
+
+#contact{
+  background-color: rgba(128, 128, 128, 0.26);
+  padding-bottom: 20px;
+}
+
+.img2{
+  width: 45%;
+}
+footer{
+  height: 40px;
+}
+footer p{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.623);
+}
+footer a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.623);
+}
